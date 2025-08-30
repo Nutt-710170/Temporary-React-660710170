@@ -3,10 +3,11 @@ import React from 'react';
 const TodoList = () => {
     // ข้อมูลที่จะแสดง
     const todos = [
-        { id: 1, text: 'เรียน React พื้นฐาน', completed: true },
-        { id: 2, text: 'ทำความเข้าใจ Components', completed: true },
-        { id: 3, text: 'ฝึก Props และ State', completed: false },
-        { id: 4, text: 'สร้างโปรเจคจริง', completed: false }
+        { id: 1, text: 'Lab 520335', completed: true },
+        { id: 2, text: 'Assignment 520341', completed: true },
+        { id: 3, text: 'สรุปเนื้อหาที่ใช้สอบ', completed: false },
+        { id: 4, text: 'Push งานขึ้น github', completed: true },
+        { id: 5, text: 'ทบทวนเนื้อหาหลังเรียน 520341', completed: false }
     ];
     
     // คำนวณสถิติ
@@ -26,7 +27,7 @@ const TodoList = () => {
                 margin: '15px 0'
             }}>
                 <div style={{
-                    backgroundColor: '#4caf50',
+                    backgroundColor: '#7effbcff',
                     width: `${percentage}%`,
                     textAlign: 'center',
                     borderRadius: '17px',
@@ -74,7 +75,7 @@ const TodoList = () => {
                 marginTop: '20px',
                 textAlign: 'center',
                 padding: '15px',
-                background: 'linear-gradient(45deg, #667eea, #764ba2)',
+                background: 'linear-gradient(45deg, #ffcd2aff, #fdeaacff)',
                 color: 'white',
                 borderRadius: '8px',
                 fontWeight: 'bold'

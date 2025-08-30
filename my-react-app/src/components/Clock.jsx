@@ -14,7 +14,7 @@ const Clock = () => {
     // Return JSX
     return (
         <div className="clock">
-            <h3>เวลาปัจจุบัน</h3>
+            <h3>🕐 เวลาปัจจุบัน</h3>
             <p className="date">{dateString}</p>
             <p className="time">{timeString}</p>
         </div>

@@ -18,7 +18,7 @@ function ComponentExamples() {
                 color: '#667eea',
                 marginBottom: '40px'
             }}>
-                ตัวอย่าง React Components
+                660710170 React Components
             </h1>
             
             <section style={{
@@ -26,7 +26,7 @@ function ComponentExamples() {
                 padding: '20px',
                 border: '1px solid #eee',
                 borderRadius: '8px',
-                backgroundColor: '#fafafa'
+                backgroundColor: '#ffeca2ff'
             }}>
                 <h2 style={{ color: '#333', marginBottom: '20px' }}>
                     Simple Components
@@ -40,7 +40,7 @@ function ComponentExamples() {
                 padding: '20px',
                 border: '1px solid #eee',
                 borderRadius: '8px',
-                backgroundColor: '#fafafa'
+                backgroundColor: '#ffcd2aff'
             }}>
                 <h2 style={{ color: '#333', marginBottom: '20px' }}>
                     Component with Logic
@@ -53,7 +53,7 @@ function ComponentExamples() {
                 padding: '20px',
                 border: '1px solid #eee',
                 borderRadius: '8px',
-                backgroundColor: '#fafafa'
+                backgroundColor: '#ffeca2ff'
             }}>
                 <h2 style={{ color: '#333', marginBottom: '20px' }}>
                     Component Composition
@@ -66,7 +66,7 @@ function ComponentExamples() {
                 padding: '20px',
                 border: '1px solid #eee',
                 borderRadius: '8px',
-                backgroundColor: '#fafafa'
+                backgroundColor: '#fff9d9ff'
             }}>
                 <h2 style={{ color: '#333', marginBottom: '20px' }}>
                     Complex Component

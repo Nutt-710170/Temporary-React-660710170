@@ -3,7 +3,7 @@ import React from 'react';
 // Component ย่อยๆ
 const Avatar = () => (
     <img 
-        src="https://www.freeiconspng.com/thumbs/person-icon/clipart--person-icon--cliparts-15.png" 
+        src="https://i.pinimg.com/736x/ab/f1/b3/abf1b3e46ac689a170648d5d3220bd8e.jpg" 
         alt="User Avatar"
         style={{
             borderRadius: '50%',
@@ -16,7 +16,7 @@ const Avatar = () => (
 
 const UserName = () => (
     <h3 style={{ color: '#667eea', margin: '10px 0' }}>
-        สมชาย ใจดี
+        Nutt Singsatit
     </h3>
 );
 
